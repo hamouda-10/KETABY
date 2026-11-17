@@ -1,0 +1,8 @@
+{
+  "name": "مكتبة الرقعة — خزانة الكتب العربية",
+  "description": "مكتبة تفاعلية ثلاثية الأبعاد تضم ٢٤ كتاباً عربياً مقروءاً بصفحتين متقابلتين وتقليب واقعي بخط الرقعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
